@@ -1,23 +1,8 @@
-# Yé
+Le cours utilise les formations en lignes produites par Google
 
+La première partie de la session est une [introduction au développement Android](../8d851.md)
 
-
-
-## test PlantUML
-
-@startuml
-
-node node1
-node node2
-node node3
-node node4
-node node5
-node1 -- node2
-node1 .. node3
-node1 ~~ node4
-node1 == node5
-
-@enduml
+La seconde partie de la session sera consacrée aux [fonctions avancées](../ud855.md)
 
 
 ## test de forum
