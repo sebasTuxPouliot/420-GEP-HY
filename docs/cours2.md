@@ -20,7 +20,6 @@ Création du projet Sunshine
   * [Sources des exercices](https://github.com/udacity/ud851-Exercises)
 6.  [Quiz: Coding, GitHub and Flow](https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/e501f2b0-e8cd-4554-b8ab-6552c5b8adb1 )
 7.  [Creation d'un projet - Notion de manifest](https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/f0aca178-1ff3-4786-bcf6-dddbb76b159d )
-
 8.  [Notions de **Min and Target Versions**](https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/382dabfc-7477-46e1-99de-d050916d61e8 )
 9.  [Réglages du *Min and Target*](https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/5b0aab7f-c63c-4e5d-b336-bdc08985767a )
 10. [Exécution du code sur **appareil virutel** et sur **appareil pysique**](https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/02f2daf0-9f99-408a-b954-f12f373dee1a )
