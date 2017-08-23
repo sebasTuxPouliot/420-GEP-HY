@@ -2,11 +2,11 @@
 
 ##  Semaine 1
 
-Mercredi 23 août
+[Mercredi 23 août](cours1.md)
   * Présentation du cours
   * Introduction à Java
 
-Vendredi 25 août
+[Vendredi 25 août](cours2.md)
   * Introduction à Android et son environnement de développement
   * Notions de Manifeste, versions cibles, activités et *layouts*
   * Révision des principes de *responsive design*
@@ -49,7 +49,7 @@ Vendredi 6 octobre
 
 ---
 
-# Semaine de lecture
+# *Semaine de lecture*
 
 ---
 
